@@ -4,7 +4,7 @@ metadata:
   name: hello-world-svc
 spec:
   selector:
-    app: hello-world
+    app: hello-world2
   ports:
     - port: 80
       targetPort: 80
